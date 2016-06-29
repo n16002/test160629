@@ -1,0 +1,15 @@
+[ 1322.755741] ufs: You didn't specify the type of your ufs filesystem
+               
+               mount -t ufs -o ufstype=sun|sunx86|44bsd|ufs2|5xbsd|old|hp|nextstep|nextstep-cd|openstep ...
+               
+               >>>WARNING<<< Wrong ufstype may corrupt your filesystem, default is ufstype=old
+[ 1322.756499] ufs: ufs_fill_super(): bad magic number
+[ 1322.763167] hfs: can't find a HFS filesystem on dev sda2
+[ 1331.186000] systemd[1]: apt-daily.timer: Adding 9h 33min 41.713297s random time.
+[ 1331.688880] systemd[1]: apt-daily.timer: Adding 9h 20min 45.802745s random time.
+[ 1332.156649] systemd[1]: apt-daily.timer: Adding 3h 47min 10.490075s random time.
+[ 1368.142930] systemd[1]: apt-daily.timer: Adding 5h 58min 42.588051s random time.
+[ 1369.752572] systemd[1]: apt-daily.timer: Adding 6h 8min 51.485061s random time.
+[ 2877.756827] perf interrupt took too long (5002 > 5000), lowering kernel.perf_event_max_sample_rate to 25000
+[ 4650.810255] [drm:intel_pipe_update_end [i915]] *ERROR* Atomic update failure on pipe A (start=276491 end=276492) time 7 us, min 763, max 767, scanline start 755, end 768
+
